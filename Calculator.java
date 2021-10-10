@@ -11,6 +11,9 @@ public class Calculator {
       //submisstion of two numbers
         int c= a+b;
         System.out.println("submission="+c);
+        
+        c=a-b;
+        System.out.println("Subtraction="+c);
     }
 
 
